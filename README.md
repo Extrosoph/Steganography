@@ -8,6 +8,9 @@ Tips for steganography
   5. zsteg
   6. file
   
+  
+  
+  
 2. Audio steganography:
   1. stegcracker
   2. file
